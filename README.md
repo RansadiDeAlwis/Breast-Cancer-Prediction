@@ -77,7 +77,7 @@ Launch Jupyter Notebook and open the .ipynb file to run the model:
 jupyter notebook
 ```
 
-Navigate to the notebook file (your-notebook.ipynb) and open it in the browser and run the notebook cells sequentially. 
+Navigate to the notebook file [cancer_prediction.ipynb](cancer_prediction.ipynb) and open it in the browser and run the notebook cells sequentially. 
 
 ## Conclusion
 
