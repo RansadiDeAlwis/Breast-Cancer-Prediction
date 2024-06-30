@@ -3,4 +3,4 @@ tensorflow
 sklearn
 pandas
 matplotlib
-imblearn
+jupyter
