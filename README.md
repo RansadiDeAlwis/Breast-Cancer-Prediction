@@ -81,7 +81,7 @@ Navigate to the notebook file [cancer_prediction.ipynb](cancer_prediction.ipynb)
 
 ## Conclusion
 
-This project offeres a practical solution for classifying breast cancer tumor samples as malignant or benign using a basic neural network model. It includes data collection, preprocessing, data visualization, model training and model evaluation. This project can be further developed as en end-to-end project which predicts breast cancer risk using a web app.
+This project offeres a practical solution for classifying breast cancer tumor samples as malignant or benign using a basic neural network model. It includes data collection, preprocessing, data visualization, model training and model evaluation. This project can be further developed as an end-to-end project which predicts breast cancer risk using a web app.
 
 
 ### 
